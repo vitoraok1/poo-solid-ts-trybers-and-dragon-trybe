@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">Trybewallet</h2>
+  <h2 align="center">Trybers & Dragonst</h2>
   <br/>
   <p align="center">
     An application of a fictional rpg, using TypeScript, POO and Solid.
